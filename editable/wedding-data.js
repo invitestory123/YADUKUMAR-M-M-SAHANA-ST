@@ -15,7 +15,7 @@ window.WEDDING_DATA = {
   },
 
   countdown: {
-    targetISO: "2026-11-22T19:00:00+05:30"
+    targetISO: "2026-11-21T19:00:00+05:30"
   },
 
   scratchCard: {
@@ -36,7 +36,7 @@ window.WEDDING_DATA = {
     {
       id: "reception",
       name: "RECEPTION",
-      date: "22 November 2026",
+      date: "21 November 2026",
       time: "7:00 PM onwards",
       place: "Bengaluru",
       mapUrl: "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x3bae25a33ee1522f:0x6ab366ef4400e34e?entry=s&sa=X&ved=2ahUKEwiCz8KUhY-XAxV1UGcHHUeTOHQQ4kB6BAgVEAA&hl=en",
@@ -54,8 +54,8 @@ window.WEDDING_DATA = {
     {
       id: "beegara-oota",
       name: "BEEGARA OOTA",
-      date: "24 November 2026",
-      time: "",
+      date: "22 November 2026",
+      time: "1:00 PM onwards",
       place: "Venue",
       mapUrl: "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x3ba509363d37ab9f:0xe3aef7ef873e33cd?entry=s&sa=X&ved=2ahUKEwi-0_KohY-XAxWykeEIHbT8MK8Q4kB6BAgUEAA&hl=en",
       mark: "sangeet"
