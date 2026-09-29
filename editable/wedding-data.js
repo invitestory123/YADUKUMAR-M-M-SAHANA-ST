@@ -15,7 +15,7 @@ window.WEDDING_DATA = {
   },
 
   countdown: {
-    targetISO: "2026-11-21T19:00:00+05:30"
+    targetISO: "2026-11-22T09:10:00+05:30"
   },
 
   scratchCard: {
@@ -54,7 +54,7 @@ window.WEDDING_DATA = {
     {
       id: "beegara-oota",
       name: "BEEGARA OOTA",
-      date: "22 November 2026",
+      date: "24 November 2026",
       time: "1:00 PM onwards",
       place: "Venue",
       mapUrl: "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x3ba509363d37ab9f:0xe3aef7ef873e33cd?entry=s&sa=X&ved=2ahUKEwi-0_KohY-XAxWykeEIHbT8MK8Q4kB6BAgUEAA&hl=en",
